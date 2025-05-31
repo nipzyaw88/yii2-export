@@ -13,7 +13,7 @@ use Closure;
 use Exception;
 use kartik\base\TranslationTrait;
 use kartik\dialog\Dialog;
-use kartik\dynagrid\Dynagrid;
+use kartik\dynagrid\DynaGrid;
 use kartik\grid\GridView;
 use PhpOffice\PhpSpreadsheet\Cell\Cell;
 use PhpOffice\PhpSpreadsheet\Cell\DataValidation;
